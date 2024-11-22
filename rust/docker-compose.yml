@@ -1,5 +1,5 @@
 services:
-  c-lesson:
+  rust-lesson:
     build:
       context: .
       dockerfile: ./Dockerfile
